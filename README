@@ -1,0 +1,6 @@
+TV3alacarta
+
+Script escrit en ruby per baixar els videos de 'TV3 a la carta' en format mp4.
+
+Sintaxi :
+  ruby TV3alacartaDumper.rb url 
